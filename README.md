@@ -2,24 +2,32 @@
 
 <br/>
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Bikram Acharjee!](https://www.linkedin.com/in/bikram-acharjee-555a94225/)
+## Hey <img src="https://media.tenor.com/-rUqRpSXK7UAAAAC/emoji-kiss.gif" width="29px">, I'm [Bikram Acharjee!](https://www.linkedin.com/in/bikram-acharjee-555a94225/)
 
-**isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <p>
+  
+Hi 👋, I am an enthusiastic and ambitious Project Manager at [@Webskitters](https://www.linkedin.com/company/webskitters/mycompany/). I specialise in Problem Solving, Error handeling and always have a 2nd options. I love to networking, join new communities and add value ✨
+
+<div>
 <details>
-<summary>About Me</summary>
--   🔭 I’m currently working on **webskitters**
--   🌱 I’m currently learning more **technologys**
--   👯 I’m looking to collaborate on **code**
--   🤔 I’m looking for help with **finding projects to contribute to!**
--   💬 Ask me about **open source, web development, and community management**
--   📫 How to reach me: **arya.acharjee11@gmail.com**
--   😄 Pronouns: **bikram**
--   ⚡ Fun fact: **nothing**
+  <summary>🧑 More about me</summary>
+
+- 🔭 I’m currently on a journey to build **great** things
+
+- 🌱 I’m currently learning **everything** 🤓
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+
+- 👨‍💻 All of my projects are available at [Bikram Acharjee](https://www.linkedin.com/in/bikram-acharjee-555a94225/)
+
+- 💬 Ask me about **open source, web development, and community management**
+
+- 📫 Reach me out at **arya.acharjee11@gmail.com**
+
 </details>
+  
 </p>
+
 <a href="https://www.linkedin.com/in/bikram-acharjee-555a94225/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
@@ -53,6 +61,13 @@ Here are some ideas to get you started:
 ![Bikram's github stats](https://github-readme-stats.vercel.app/api?username=bikramacharjee&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Bikram's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bikramacharjee&layout=compact&langs_count=8&hide_border=true)
 <br />
+
+## 📘 My top open source projects
+
+<p align="left">
+    <a href="https://github.com/Enhanced-TTVDropBot"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bikramacharjee&repo=portfolio&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/BikramAcharjee/DiscordPlus"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=bikramacharjee&repo=DiscordPlus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+</p>
 
 ### 📕 Blog Posts
 
