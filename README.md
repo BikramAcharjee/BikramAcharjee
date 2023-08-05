@@ -6,7 +6,7 @@
 
 <p>
   
-Hi 👋, I am an enthusiastic and ambitious Project Manager at [@Webskitters](https://www.linkedin.com/company/webskitters/mycompany/). I specialise in Problem Solving, Error handeling and always have a 2nd options. I love to networking, join new communities and add value ✨
+Hi 👋, I am an dedicated Project Manager at [@Webskitters](https://www.linkedin.com/company/webskitters/mycompany/). I specialise in Problem Solving, Error handeling and always have a 2nd options. I love to networking, join new communities and add value ✨
 
 <div>
 <details>
@@ -58,8 +58,10 @@ Hi 👋, I am an enthusiastic and ambitious Project Manager at [@Webskitters](ht
 -   [Project Manager (Nodewap)](https://wapinstitute.com/) - (Oct 2022 - Jan 2023)
 -   [FullStack Developer (Nodewap)](https://www.wapinstitute.com/) - (Jan 2018 - Sep 2023)
 
-![Bikram's github stats](https://github-readme-stats.vercel.app/api?username=bikramacharjee&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Bikram's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bikramacharjee&layout=compact&langs_count=8&hide_border=true)
+## 🔥 Github Stats
+![Bikram's github stats](https://github-readme-stats.vercel.app/api?username=bikramacharjee&theme=radical&title_color=ff3068?&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Bikram's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bikramacharjee&theme=radical&layout=compact&langs_count=8&hide_border=true)
+<a href="https://github.com/BikramAcharjee"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=bikramacharjee&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 <br />
 
 ## 📘 My top open source projects
