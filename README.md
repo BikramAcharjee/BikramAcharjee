@@ -46,13 +46,13 @@ Hi 👋, I am an dedicated Project Manager at [@Webskitters](https://www.linkedi
 
 <br />
 
-## About Me 🚀
+## 🚀 About Me 
 
 🌱 I’m a Software Engineer with a Advance Diploma in Software Engineering. </br>
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things. </br>
 👨‍💻 I am passionate about Coding. </br>
 
-## My Experiences 🙌
+## 🙌 My Experiences 
 
 -   [Project Manager (Webskitters)](https://www.webskitters.com/) - (March'01-Present)
 -   [Project Manager (Nodewap)](https://wapinstitute.com/) - (Oct 2022 - Jan 2023)
