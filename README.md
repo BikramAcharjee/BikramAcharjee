@@ -31,8 +31,8 @@ Hi 👋, I am an enthusiastic and ambitious Project Manager at [@Webskitters](ht
 <a href="https://www.linkedin.com/in/bikram-acharjee-555a94225/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
-<a href="https://twitter.com/isupersky">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/twitter" />
+<a href="https://www.facebook.com/bikram.acharjee.581">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/facebook" />
 </a>
 <a href="mailto:arya.acharjee11@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
@@ -40,8 +40,8 @@ Hi 👋, I am an enthusiastic and ambitious Project Manager at [@Webskitters](ht
 <a href="https://www.youtube.com/channel/UCbEhG_gNEUQAs3e_unXktDg">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/youtube" />
 </a>
-<a href="https://isupersky.medium.com/">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/medium/777777" />
+<a href="https://bikramacharjee.blogspot.com/">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/blogger" />
 </a>
 
 <br />
@@ -66,7 +66,7 @@ Hi 👋, I am an enthusiastic and ambitious Project Manager at [@Webskitters](ht
 
 <p align="left">
     <a href="https://github.com/Postmaster"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=bikramacharjee&repo=Postmaster&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/BikramAcharjee/npm_package"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=bikramacharjee&repo=npm_package&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/BikramAcharjee/NPM-Package"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=bikramacharjee&repo=NPM-Package&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
 ### 📕 Blog Posts
