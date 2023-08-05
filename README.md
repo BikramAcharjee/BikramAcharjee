@@ -1,20 +1,25 @@
+<a href="https://discord.gg/pochita"><img src="https://i.imgur.com/z1oWSiy.png" width="100%" height="auto"/></a>
+
+<br/>
+
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Bikram Acharjee!](https://www.linkedin.com/in/bikram-acharjee-555a94225/)
 
-<!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<p>
+<details>
+<summary>About Me</summary>
+-   🔭 I’m currently working on **webskitters**
+-   🌱 I’m currently learning more **technologys**
+-   👯 I’m looking to collaborate on **code**
+-   🤔 I’m looking for help with **finding projects to contribute to!**
+-   💬 Ask me about **open source, web development, and community management**
+-   📫 How to reach me: **arya.acharjee11@gmail.com**
+-   😄 Pronouns: **bikram**
+-   ⚡ Fun fact: **nothing**
+</details>
+</p>
 <a href="https://www.linkedin.com/in/bikram-acharjee-555a94225/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
